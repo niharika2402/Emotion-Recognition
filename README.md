@@ -9,5 +9,10 @@ The MTCNN library in python was used for face detection in the input feed. The f
 
 
 # Website Preview
-![](assets/sample_input.jpj)
-![](assets/sample_output.jpj)
+![](assets/sample_input.jpg)
+
+
+
+
+
+![](assets/sample_output.jpg)
